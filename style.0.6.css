@@ -6,6 +6,10 @@
   font-weight: bold;
 }
 
+.header {
+ border: 1em white;
+ border-radius: 1em;
+}
 .parent {
   position: relative;
   text-align: center;
