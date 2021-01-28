@@ -40,21 +40,32 @@
 
 .dateandtime {
   text-align: center;
-  font-size: 8vmin;
-  margin-top: 6vh;
+  font-size: 6vmin;
+  margin-top: 4vh;
   font-family: 'Patrick Hand';
 }
 
 .chef {
+  padding-top: 5vh;
+}
+
+.info {
   text-align: center;
-  padding-top: 15vh;
   font-size: 10vmin;
   font-family: 'Dancing Script';
 }
 
 .souschef {
-  text-align: center;
   padding-top: 2vmin;
+}
+
+.subinfo {
+  text-align: center;
   font-size: 6vmin;
   font-family: 'Dancing Script';
+}
+.food {
+  text-align: center;
+  font-family: 'Patrick Hand';
+  font-size: 5vmin;
 }
